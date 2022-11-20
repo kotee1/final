@@ -1,0 +1,690 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Public+Sans:ital,wght@1,300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    background-color: #34373E;
+    width: 100%;
+    padding-top: 44px;
+    padding-left: 100px;
+    position: relative;
+    padding-bottom: 200px;
+
+    
+}
+.image{
+    
+    width: 55%;
+    padding-left: 447px;
+    margin-top: -250px;
+    position: absolute;
+    
+    
+}
+
+.cashify{
+    font-size: 27px;
+    
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.menubox{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    
+    
+    
+}
+
+.menu{
+    font: normal normal normal 15px/18px Lato;
+    letter-spacing: 0px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-right: 150px;
+    
+    
+    gap: 48px;
+    font-size: 15px;
+}
+.thebest{
+    padding-top: 92px;
+    color: #FFFFFF;
+    font: normal normal normal 50px/57px Abril Fatface;
+    font-family: 'Anton', sans-serif;
+font-family: 'Public Sans', sans-serif;
+}
+.joinus{
+    font: normal normal normal 18px/22px Lato;
+    color: #FFFFFF;
+    padding-top: 23px;
+}
+.joinnow{
+    width: 160px;
+    height: 53px;
+    background-color: #D84B4B;
+    border-radius: 32px;
+    color: #FFFFFF;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.seeademo{
+    width: 160px;
+    height: 53px;
+    background-color: #6A8BD6;
+    border-radius: 32px;
+    color: #FFFFFF;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.secondmenu{
+    display: flex;
+    gap: 40px;
+    padding-top: 30px;
+}
+
+.imagebox{
+    display: flex;
+    justify-content: center;
+    padding-left: 400px;
+    padding-bottom: 400px;
+    
+    
+}
+
+-------------------
+
+.mtavariboxi{
+    height: 400px;
+    width: 1000px;
+
+}
+.mtavari{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+    
+}   
+
+
+
+.shop{
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 32px;
+    font-size: 40px;
+    font: normal normal normal 40px/44px Abril Fatface;
+    color: #34373E;
+}
+
+.br{
+    opacity: 0.5;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.boxx{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    gap: 300px;
+    margin-top: 50px;
+}
+.Always-on-target{
+margin-top: 18px;
+
+}
+.texti1{
+    margin-top: 11px;
+    font: normal normal normal 16px/23px Lato;
+}
+
+
+.foto1{
+    width: 40px;
+    height: 40px;
+
+}
+.smart{
+    padding-top: 195px;
+    text-align: center;
+    font: normal normal normal 40px/44px Abril Fatface;
+    letter-spacing: 0px;
+    color: #34373E;
+}
+.pay{
+    color: #6C7280;
+    font: normal normal normal 18px/22px Lato;
+    text-align: center;
+    padding-top: 10px;
+}
+.xazi{
+    height: 1px;
+    width: 100%;
+    
+}
+.basic{
+box-shadow: 0px 2px 3px #0000003C;
+border-radius: 2px;
+padding: 20px;
+font: normal normal bold 14px/17px Lato;
+}
+
+
+.liner{
+    border-bottom: 2px dashed grey;
+    height: 1px;
+    padding-top: 107px;
+}
+.boxebissamodzrao{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 66px;
+    gap: 60px;
+    
+
+}
+.dolari{
+font: normal normal bold 40px/48px Lato;
+letter-spacing: 0px;
+color: #34373E;
+padding-top: 28px;
+}
+.buynow{
+    width: 118px;
+    height: 37px;
+    background-color: #D84B4B;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: 60px;
+    margin-top: 32px;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 15px;
+
+    border: none;
+  
+  
+  cursor: pointer;
+
+}
+
+.firstbox{
+    
+    width: 232px;
+    height: 370px;
+    box-shadow: 0px 2px 3px #0000003C;
+border-radius: 2px;
+    
+}
+.firstbox2{
+    
+    width: 232px;
+    height: 370px;
+    box-shadow: 0px 2px 3px #0000003C;
+border-radius: 2px;
+
+    
+}
+.firstbox3{
+    
+    width: 232px;
+    height: 370px;
+    box-shadow: 0px 2px 3px #0000003C;
+border-radius: 2px;
+    
+}
+.firstbox4{
+    
+    width: 232px;
+    height: 370px;
+    box-shadow: 0px 2px 3px #0000003C;
+border-radius: 2px;
+    
+}
+.text{
+    gap: 2px;
+    padding-top: 29px;
+    font: normal normal normal 15px/30px Lato;
+
+}
+
+
+.basic:hover{
+    background-color: #6A8BD6;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font: normal normal bold 14px/17px Lato;
+    
+    
+
+}
+
+.best-value-class:hover {
+    display: block;
+    
+    
+}
+.best-value-class{
+    display: none;
+}
+
+
+
+.liner2{
+    border-bottom: 2px dashed grey;
+    height: 1px;
+    padding-top: 100px;
+}
+
+.getin{
+    font-size: 40px;
+    padding-top: 210px;
+    color: #34373E;
+    font-weight: bold;
+    font-family: 'Anton', sans-serif;
+
+    
+}
+.getindiv{
+    
+    
+}
+
+.log-in-form{
+    max-width: 410px;
+    height: 480px;
+    background-color: #DDDDDD
+}
+.email{
+    width: 330px;
+height: 60px;
+margin-top: 40px;
+}
+.text99{
+    width: 330px;
+    height: 60px;
+    margin-top: 20px;
+}
+.your-message{
+    width: 330px;
+    height: 160px;
+    margin-top: 20px;
+
+}
+.send-message{
+    width: 330px;
+    height: 60px;
+    background-color: #6A8BD6;
+    color: #FFFFFF ;
+    margin-top: 20px;
+}
+.log-in-form{
+    margin-left: 40px;
+}
+
+.log-in-and-texts-main-div{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 95px;
+}
+.lorem{
+
+    margin-top: 37px;
+    font: normal normal normal 15px/26px Lato;
+    color: #6C7280;
+}
+.welove{
+    color: #6C7280;
+}
+.bolobox{
+    height: 167px;
+    width: 100%;
+    background-color: #D84B4B;
+    margin-top: 100px;
+    
+}
+.bomomeniussamodzrao{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+.bolomenu{
+    display: flex;
+    gap: 88px;
+    margin-top: 66px;
+    font-size: 19px;
+    color: #FFFFFF;
+    
+}
+.cashify12{
+    margin-top: 66px;
+    font-size: 27px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.fotoebis-samodzravebeli{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+@media only screen and (max-width: 1190px){
+
+    .cashify{
+        font-size: 20px;
+    }
+    .thebest{
+    font-size: 35px;
+    
+    }
+
+    .image{
+        padding-left: 300px;
+    }
+    .shop{
+        font: normal normal normal 25px/35px Abril Fatface;
+    }
+    .boxx{
+    
+
+        display: flex;
+        gap: 50px;
+
+    }
+
+
+
+    .smart{
+        font: normal normal normal 30px/44px Abril Fatface
+    }
+    .log-in-form{
+        max-width: 335px;
+        height: 474px;
+        background-color: #DDDDDD;
+        margin-left: -35px;
+    }
+    .getin{
+        font-size: 29px;
+    }
+    .lorem{
+        margin-top: 26px;
+    font: normal normal normal 12px/15px Lato;
+    color: #6C7280;
+    }
+    .boxebissamodzrao{
+        gap: 6px;
+    }
+
+    .bolomenu{
+        gap: 29px;
+        font-size: 15px;
+    }
+    .cashify12{
+        font-size: 20px;
+    }
+        
+
+}
+@media only screen and (max-width: 901px){
+    .cashify{
+        font-size: 15px;
+    }
+    .thebest{
+    font-size: 25px;
+    
+    }
+
+    .image{
+        padding-left: 225px;
+        margin-top: -228px;
+        width: 45%;
+    }
+
+
+    .joinnow{
+        width: 15%;
+    }
+    .seeademo{
+        width: 15%;
+    }
+    .joinus{
+        font-size: 13px;
+    }
+        .shop{
+        font: normal normal normal 15px/28px Abril Fatface;
+    }
+    .buynow{
+        margin-left: 0px;
+    }
+    .boxx{
+    
+
+        display: flex;
+        gap: 30px;
+
+    }
+
+
+    .firstbox{
+        width: 120px;
+        
+    }
+    .firstbox2{
+        width: 120px;
+    }
+    .firstbox3{
+        width: 120px;
+    }
+    .firstbox4{
+        width: 120px;
+    }
+    .smart{
+        font: normal normal normal 25px/35px Abril Fatface
+    }
+    .log-in-form{
+        max-width: 338px;
+        height: 474px;
+        background-color: #DDDDDD;
+        margin-left: -35px;
+    }
+    .getin{
+        font-size: 29px;
+    }
+    .lorem{
+        margin-top: 26px;
+    font: normal normal normal 12px/15px Lato;
+    color: #6C7280;
+    }
+    .boxebissamodzrao{
+        gap: 6px;
+    }
+
+    .bolomenu{
+        gap: 29px;
+        font-size: 15px;
+    }
+    .cashify12{
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .cashify{
+        font-size: 15px;
+    }
+    .menu{
+        font-size: 10px;
+    }
+    .header{
+        padding-left: 21px;
+    }
+    .joinnow{
+        width: 21%;
+    }
+    .seeademo{
+        width: 21%;
+}
+.boxebissamodzrao{
+    gap: 2px;
+
+}
+.buynow{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+.log-in-form{
+    max-width: 150px;
+    height: 474px;
+    background-color: #DDDDDD;
+    margin-left: -35px;
+}
+.email {
+    width: 144px;
+    height: 60px;
+    margin-top: 40px;
+}
+.text99 {
+    width: 144px;
+    height: 60px;
+    margin-top: 20px;
+}
+.your-message {
+    width: 144px;
+    height: 94px;
+    margin-top: 20px;
+}.send-message {
+    width: 144px;
+    height: 60px;
+    background-color: #6A8BD6;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.getin{
+    font-size: 18px;
+}
+.lorem {
+    margin-top: 26px;
+    font: normal normal normal 10px/15px Lato;
+    color: #6C7280;
+}
+.cashify12{
+    font-size: 15px;
+}
+.bolomenu {
+    gap: 18px;
+    font-size: 12px;
+}
+.boxx {
+    display: flex;
+    gap: 3px;
+}
+
+}
+
+@media only screen and (max-width: 320px){
+    .cashify {
+        font-size: 17px;    }
+    
+    .menu{
+        gap: 37px;
+    margin-right: 23px;
+    }
+
+    .thebest{
+        font-size: 31px;
+        margin-top: -65px;
+    }
+    .image{
+        display: none;
+    }
+    .joinnow{
+        width: 31%;
+    }
+    .seeademo{
+        width: 31%;
+    }
+    .boxebissamodzrao {
+        gap: 12px;
+        display: flex;
+        flex-direction: column;
+        margin-left: 110px;
+    }
+    .boxx {
+        display: flex;
+        gap: 3px;
+        flex-direction: column;
+    }
+    .email {
+        width: 139px;
+        height: 16px;
+        margin-top: 40px;
+        font-size: 10px;
+        margin-left: 4px;
+    }
+    .text99 {
+        width: 139px;
+        height: 16px;
+        margin-top: 20px;
+        font-size: 10px;
+        margin-left: 4px;
+    }
+    .your-message {
+        width: 139px;
+        height: 50px;
+        margin-top: 20px;
+        font-size: 12px;
+        margin-left: 4px;
+    }
+    .send-message {
+        width: 139px;
+        height: 31px;
+        margin-top: 20px;
+        font-size: 10px;
+        margin-left: 4px;
+    }
+    .log-in-form{
+        height: 245px;
+    }
+    .lorem{
+        font: normal normal normal 10px/14px Lato;
+    }
+    .getin {
+        font-size: 15px;
+
+    }
+    .welove{
+        font-size: 10px;
+    }
+
+
+    .cashify12 {
+        font-size: 10px;
+    }
+    .bolomenu {
+        gap: 10px;
+        font-size: 6px;
+    }
+}
